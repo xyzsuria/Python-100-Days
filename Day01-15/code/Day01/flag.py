@@ -39,7 +39,7 @@ def draw_star(x, y, radius):
     turtle.goto(pos5)
     turtle.end_fill()
 
-
+# 尝试修改
 def main():
     """主程序"""
     turtle.speed(12)
